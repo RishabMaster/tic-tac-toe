@@ -1,4 +1,4 @@
-# ❌⭕ Tic-Tac-Toe
+# ⭕ Tic-Tac-Toe 
 
 A classic command-line implementation of the game **Tic-Tac-Toe** (also known as Noughts and Crosses), written in **C++**.
 
