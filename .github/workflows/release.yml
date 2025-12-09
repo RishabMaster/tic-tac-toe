@@ -59,8 +59,7 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: tictactoe-macos-latest
-        # Repeat for windows and macos or use wildcard
-
+          
       - name: Create GitHub Release and attach binaries
         uses: softprops/action-gh-release@v1
         with:
